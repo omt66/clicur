@@ -1,6 +1,6 @@
 {
     "name": "clicur",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Simple cursor manipulation for CLI",
     "main": "./dist/index.js",
     "directories": {
@@ -17,7 +17,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/omt66/clicursor.git"
+        "url": "git+https://github.com/omt66/clicur.git"
     },
     "keywords": [
         "terminal",
