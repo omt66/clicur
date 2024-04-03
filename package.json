@@ -1,5 +1,5 @@
 {
-    "name": "clicursor",
+    "name": "clicur",
     "version": "0.0.1",
     "description": "Simple cursor manipulation for CLI",
     "main": "./dist/index.js",
