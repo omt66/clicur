@@ -1,21 +1,21 @@
-# CLI Cursor
+# CLI Cursor (clicur)
 
 Simple cursor manipulation for a ANSI terminals.
 
 ## Installation
 
-`$ npm i clicursor`
+`$ npm i clicur`
 
 ## Usage
 
 ```js
 Common JS
-const cc = require("clicursor")
+const cc = require("clicur")
 
 or
 
 TS
-import cc from "clicursor"
+import cc from "clicur"
 
 
 // Clear the terminal screen
