@@ -1,0 +1,33 @@
+{
+    "name": "clicursor",
+    "version": "0.0.1",
+    "description": "Simple cursor manipulation for CLI",
+    "main": "./dist/index.js",
+    "directories": {
+        "example": "examples"
+    },
+    "scripts": {        
+        "build": "tsc",
+        "publish": "npm run build && git push && npm publish",
+        "test": "vitest",
+        "example1": "tsx examples/example1.ts",
+        "example2": "tsx examples/example2.ts"
+    },
+    "author": "omt66",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/omt66/clicursor.git"
+    },
+    "keywords": [
+        "terminal",
+        "cli",
+        "cursor"
+    ],
+    "devDependencies": {
+        "@types/node": "20.12.3",
+        "tsx": "4.7.1",
+        "typescript": "5.4.3",
+        "vitest": "^1.4.0"
+    }
+}
