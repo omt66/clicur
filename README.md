@@ -1,6 +1,6 @@
 # CLI Cursor (clicur)
 
-Simple cursor manipulation for a ANSI terminals.
+Simple cursor manipulation for ANSI terminals.
 
 ## Installation
 
